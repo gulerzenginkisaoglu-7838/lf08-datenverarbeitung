@@ -1,0 +1,17 @@
+<personen>
+    <person>
+        <name>Anna</name>
+        <alter>25</alter>
+        <stadt>Berlin</stadt>
+    </person>
+    <person>
+        <name>Tom</name>
+        <alter>30</alter>
+        <stadt>München</stadt>
+    </person>
+    <person>
+        <name>Lisa</name>
+        <alter>22</alter>
+        <stadt>Hamburg</stadt>
+    </person>
+</personen>

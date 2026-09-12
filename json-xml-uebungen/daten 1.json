@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Max Mustermann",
+        "alter": 31,
+        "beruf": "Ingenieur",
+        "interessen": [
+            "Fussball",
+            "Programmieren",
+            "Reisen"
+        ]
+    },
+    {
+        "name": "Erika Beispiel",
+        "alter": 28,
+        "beruf": "Ärztin",
+        "interessen": [
+            "Lesen",
+            "Wandern",
+            "Kochen"
+        ]
+    }
+]
